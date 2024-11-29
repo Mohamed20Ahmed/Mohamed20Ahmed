@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer (NodeJS)
 --------------------------
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamed20ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed20ahmed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed20ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed20ahmed" /> </p>
 
 * 🌍  I'm based in Cairo, Egypt
 * 👨‍💻 All of my projects are available at [Github](https://github.com/Mohamed20Ahmed?tab=repositories)
