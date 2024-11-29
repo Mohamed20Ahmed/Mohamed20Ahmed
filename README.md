@@ -42,9 +42,3 @@ Backend Developer (NodeJS)
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed20ahmed&" alt="mohamed20ahmed" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed20ahmed&show_icons=true&locale=en&layout=compact" alt="mohamed20ahmed" /></p>
-
-###
-
-<img src="https://raw.githubusercontent.com/Mohamed20Ahmed/Mohamed20Ahmed/output/snake.svg" alt="Snake animation" />
-
-###
