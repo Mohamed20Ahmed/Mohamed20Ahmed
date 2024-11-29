@@ -11,15 +11,6 @@ Backend Developer (NodeJS)
 * 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1A7_o3sVT8k8XZPs_Fsbtmf_QUXZpZAHf/view?usp=drive_link)
 * ✉️  You can contact me at [mohammedraslan942@gmail.com](mailto:mohammedraslan942@gmail.com)
 
-### Find Me On: Social and Coding Platforms:
-
-<p align="left">
-<a href="https://linkedin.com/in/mohammed-ahmed-169095211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-ahmed-169095211" height="30" width="40" /></a>
-<a href="https://instagram.com/m.u.h.a.m.m.e.d.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.u.h.a.m.m.e.d.20" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mohammedraslan91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mohammedraslan91" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mohamedahmed20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamedahmed20" height="30" width="40" /></a>
-</p>
-
 ### Languages and Tools:
 
 <p align="left">
