@@ -45,6 +45,6 @@ Backend Developer (NodeJS)
 
 ###
 
-<img src="https://raw.githubusercontent.com/MohamedAhmed/MohamedAhmed/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mohamed20Ahmed/Mohamed20Ahmed/output/snake.svg" alt="Snake animation" />
 
 ###
