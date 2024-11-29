@@ -6,12 +6,10 @@ Backend Developer (NodeJS)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamed20ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed20ahmed" /> </p>
 
-
 * 🌍  I'm based in Cairo, Egypt
 * 👨‍💻 All of my projects are available at [Github](https://github.com/Mohamed20Ahmed)
 * 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1A7_o3sVT8k8XZPs_Fsbtmf_QUXZpZAHf/view?usp=drive_link)
 * ✉️  You can contact me at [mohammedraslan942@gmail.com](mailto:mohammedraslan942@gmail.com)
-
 
 ### Find Me On: Social and Coding Platforms:
 
@@ -21,7 +19,6 @@ Backend Developer (NodeJS)
 <a href="https://www.hackerrank.com/@mohammedraslan91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mohammedraslan91" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mohamedahmed20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamedahmed20" height="30" width="40" /></a>
 </p>
-
 
 ### Languages and Tools:
 
@@ -43,5 +40,5 @@ Backend Developer (NodeJS)
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed20ahmed&show_icons=true&locale=en&layout=compact" alt="mohamed20ahmed" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed20ahmed&" alt="mohamed20ahmed" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed20ahmed&show_icons=true&locale=en&layout=compact" alt="mohamed20ahmed" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed20ahmed&" alt="mohamed20ahmed" /></p>
