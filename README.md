@@ -30,6 +30,3 @@ Backend Developer (NodeJS)
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed20ahmed&show_icons=true&locale=en&layout=compact" alt="mohamed20ahmed" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed20ahmed&" alt="mohamed20ahmed" /></p>
